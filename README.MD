@@ -1,8 +1,8 @@
-### 🌟 AgilStore Inventory Management System
+# 🌟 AgilStore Inventory Management System
 
 The AgilStore Inventory Management System is a Python-based application crafted with Object-Oriented Programming (OOP) principles. It provides a seamless way to manage product inventories via a user-friendly command-line interface. The system is designed for customization and scalability, making it ideal for small to medium-sized businesses.
 
-# ✨ Key Features
+## ✨ Key Features
 
 - 🧩 Object-Oriented Design: Modular and reusable structure using classes and methods.
 - ➕ Add Products: Easily add new items with attributes such as name, category, quantity, and price.
@@ -28,7 +28,7 @@ The AgilStore Inventory Management System is a Python-based application crafted 
 Pre-requisites:
 Python 3.6 or higher: Ensure Python is installed on your system.
 
-# Installation
+### Installation
 Clone the Repository:
 git clone https://github.com/yourusername/agilstore.git
 cd agilstore
@@ -43,7 +43,7 @@ echo "[]" > data/inventory.json
 Run the application from the command line:
 python main.py
 
-# Menu Options
+### Menu Options
 1 - List Products: View all products with sorting options.
 2 - Add Product: Add a new product to the inventory.
 3 - Update Product: Modify an existing product’s details.
@@ -85,4 +85,4 @@ Entry point of the application:
 Initializes the Inventory and Interface classes.
 Runs the main application loop.
 
-## Start managing your inventory with ease and efficiency using AgilStore! 🎉
+# Start managing your inventory with ease and efficiency using AgilStore! 🎉
